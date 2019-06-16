@@ -1,4 +1,4 @@
-# C-_SalaryReport_Employees_usingRandomAccessBinaryFiles
+# C-_Final Project
 This program will modify the progrom of C-_SalaryReport_Employees repository to:
 1. Store the data in Bianry file and access it in Random Access mode.
 2. Replace Class with Structure for Employee and Department.
